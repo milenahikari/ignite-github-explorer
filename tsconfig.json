@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ], // Permite acessar propriedades do dom
+    "allowJs": true, //Determina que podemos ter na aplicacao arquivos js e ts
+    "jsx": "react-jsx",
+    "noEmit": true,
+    "strict": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true, // Adiciona a possibilidade de importar arquivos .json
+    "isolatedModules": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": [
+    "src"
+  ]
+}
