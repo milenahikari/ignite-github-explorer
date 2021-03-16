@@ -65,7 +65,7 @@ Desenvolvemos a estrutura base de uma aplicação React utilizando:
 Listagem de repositórios do Github
 
 <div>
-  <img style="margin: 5px" alt="Login com Google" src="https://imgur.com/2ciUKmt.png" width="200">
+  <img alt="Login com Google" src="https://imgur.com/2ciUKmt.png" width="100%">
 </div>
 
 Desenvolvido com ♥ por Milena Hikari
