@@ -17,6 +17,8 @@ Projeto desenvolvido no curso Ignite da Rocketseat 🚀
 
 CHAPTER I - Fundamentos do ReactJS
 
+Primeiro projeto para listar os repositórios do Github e aprender os principais conceitos.
+
 ---
 
 ## 💻 Tecnologias utilizadas
@@ -65,7 +67,7 @@ Desenvolvemos a estrutura base de uma aplicação React utilizando:
 Listagem de repositórios do Github
 
 <div>
-  <img alt="Login com Google" src="https://imgur.com/2ciUKmt.png" width="100%">
+  <img alt="Tela da aplicação" src="https://imgur.com/2ciUKmt.png" width="100%">
 </div>
 
 Desenvolvido com ♥ por Milena Hikari
